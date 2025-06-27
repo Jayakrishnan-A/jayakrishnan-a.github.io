@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    %url: /cv/
+    #url: /cv/
     url: /files/Resume_JK.pdf
     
 #  - title: "Talks"

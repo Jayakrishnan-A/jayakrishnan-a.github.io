@@ -14,4 +14,4 @@ Research Interests
 - Spatiotemporal Modeling and Analysis
 - Remote Sensing & Geospatial Analytics
 - Edge-IoT-UAV Intelligence for Environmental Monitoring
-- AI for Infrastructure and Sustainable Development
+- AI Aligned Sustainable Development

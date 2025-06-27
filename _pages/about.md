@@ -13,6 +13,5 @@ Research Interests
 - Machine Learning and Deep Learning
 - Spatiotemporal Modeling and Analysis
 - Remote Sensing & Geospatial Analytics
-- UAV-based Data Acquisition and Processing
-- Edge-IoT for Environmental Monitoring
+- Edge-IoT-UAV Intelligence for Environmental Monitoring
 - AI for Infrastructure and Sustainable Development

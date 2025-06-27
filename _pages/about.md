@@ -8,6 +8,7 @@ redirect_from:
 ---
 <p align="justify"> I’m Jayakrishnan Anandakrishnan (Member, IEEE), a dedicated and versatile researcher with a strong foundation in Machine Learning, Deep Learning, Data Analytics, and advanced spatiotemporal integration using Remote Sensing, GIS, UAVs, and Edge-IoT Intelligence. My work focuses on creating innovative, data-driven solutions for real-world challenges such as predictive modeling, environmental monitoring, and geospatial analytics. I received my Bachelor’s degree in Computer Science and Engineering from Kerala University, India, in 2011, and completed my Master’s degree in Computer Science with a specialization in Image Processing from Cochin University of Science and Technology, India, in 2013. I earned my Ph.D. in Computer Science and Engineering from the National Institute of Technology Puducherry (NITPY), India, in 2025. My research expertise was further enriched through an international internship under the International Internship Pilot Program (IIPP), funded by the National Science and Technology Council (NSTC), Taiwan. My core research interests include Machine Learning, Deep Learning, Remote Sensing, Geospatial Analytics, IoT, and Edge Computing, with a focus on building scalable systems that bridge technology and societal impact.</p>
 
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -46,3 +47,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+> 

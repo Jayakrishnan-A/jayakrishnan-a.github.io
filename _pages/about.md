@@ -15,3 +15,16 @@ Research Interests
 - Remote Sensing & Geospatial Analytics
 - Edge-IoT-UAV Intelligence for Environmental Monitoring
 - AI Aligned Sustainable Development
+
+## 🎓 Education
+- **PhD in Computer Science and Engineering**, National Institute of Technology Puducherry, India — *Jan 2021 - Mar 2025*
+- **M.Tech in Computer Science (Image Processing)**, Cochin University of Science and Technology, Kerala, India — *Jul 2011 - Jun 2013*
+- **B.Tech in Computer Science and Engineering**, Kerala University, Kerala, India — *Jul 2007 - Jun 2011*
+
+## 👨‍🏫 Experience in Academia
+- **Research Intern – IIPP NSTC Fellow**, IDEA Lab, National Yunlin University of Science and Technology, Douliu, Yunlin, Taiwan — *Nov 2023 - Jan 2024 (3 Months)*
+- **Assistant Professor (On Contract)**, Government College of Engineering (Managed by IHRD), Kerala, India — *Jul 2013 - Apr 2016 (2 Years 9 Months)*
+
+## 🏢 Experience in Industry
+- **IT System and Network Engineer**, Etihad Steel Factory, Qatar — *Jan 2018 - Dec 2020 (3 Years)*
+- **IT System Administrator**, Graceland IT Solutions, Kerala, India — *May 2016 - Jul 2017 (1 Year 3 Months)*

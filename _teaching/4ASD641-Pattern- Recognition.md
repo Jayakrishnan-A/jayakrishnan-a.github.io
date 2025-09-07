@@ -8,7 +8,12 @@ date: 2025-09-07
 location: "Coimbatore, India"
 ---
 
-K-NN Classification — [Slides](/files/KNN_Classification_Slides.pdf)  
-Discriminant Functions — [Slides](/files/Discriminant_Functions_Slides.pdf)  
-Minimum Squared Error Discriminant Functions — [Slides](/files/Minimum_Squared_Error_Discriminant_Functions_Slides.pdf)  
-Non-Metric Methods Decision Trees — [Slides](/files/Non_Metric_Methods_Decision_Trees_Slides.pdf)  
+<details>
+<summary><strong>View Course Slides</strong></summary>
+
+- **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  
+- **Discriminant Functions** — [Slides](/files/Discriminant_Functions_Slides.pdf)  
+- **Minimum Squared Error Discriminant Functions** — [Slides](/files/Minimum_Squared_Error_Discriminant_Functions_Slides.pdf)  
+- **Non-Metric Methods Decision Trees** — [Slides](/files/Non_Metric_Methods_Decision_Trees_Slides.pdf)  
+
+</details>

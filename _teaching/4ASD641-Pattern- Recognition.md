@@ -6,6 +6,7 @@ permalink: /teaching/24ASD641-Pattern- Recognition
 venue: "Amrita School of Computing"
 date: 2025-09-07
 location: "Coimbatore, India"
+pagination: false
 ---
 
 - **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  

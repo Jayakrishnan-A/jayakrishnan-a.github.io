@@ -9,7 +9,7 @@ location: "Coimbatore, India"
 ---
 
 <details>
-<summary><strong>View Course Slides</strong></summary>
+<summary><a href="https://jayakrishnan-a.github.io/teaching/24ASD641-Pattern-%20Recognition" target="_blank"><strong>Click to View Course Materials</strong></a></summary>
 
 - **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  
 - **Discriminant Functions** — [Slides](/files/Discriminant_Functions_Slides.pdf)  

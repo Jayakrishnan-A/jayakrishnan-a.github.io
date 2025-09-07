@@ -7,6 +7,7 @@ venue: "Amrita School of Computing"
 date: 2025-09-07
 location: "Coimbatore, India"
 pagination: false
+hide_nav: true
 ---
 
 - **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  

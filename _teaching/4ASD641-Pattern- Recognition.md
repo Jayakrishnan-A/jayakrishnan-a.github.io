@@ -9,7 +9,7 @@ location: "Coimbatore, India"
 ---
 
 <details>
-<summary><strong> </strong></summary>
+<summary><strong>View Course Slides</strong></summary>
 
 - **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  
 - **Discriminant Functions** — [Slides](/files/Discriminant_Functions_Slides.pdf)  

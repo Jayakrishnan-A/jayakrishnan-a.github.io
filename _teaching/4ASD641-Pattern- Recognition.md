@@ -10,5 +10,5 @@ location: "Coimbatore, India"
 
 - **Lectures Covered:**  
   K-NN Classification, Discriminant Functions, Minimum Squared Error Discriminant Functions, Non-Metric Methods Decision Trees  
-  [Download Course Materials](/files/Non_Metric_Methods_Decision_Trees_Slides.pdf)
+  [Download Course Materials](/files/24ASD641_Pattern_Recognition.pdf)
 

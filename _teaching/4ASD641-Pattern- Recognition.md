@@ -10,7 +10,8 @@ pagination: false
 hide_nav: true
 ---
 
-- **K-NN Classification** — [Slides](/files/KNN_Classification_Slides.pdf)  
-- **Discriminant Functions** — [Slides](/files/Discriminant_Functions_Slides.pdf)  
-- **Minimum Squared Error Discriminant Functions** — [Slides](/files/Minimum_Squared_Error_Discriminant_Functions_Slides.pdf)  
-- **Non-Metric Methods Decision Trees** — [Slides](/files/Non_Metric_Methods_Decision_Trees_Slides.pdf)  
+- **Lectures Covered**
+
+[K-NN Classification, Discriminant Functions, Minimum Squared Error Discriminant Functions, Non-Metric Methods Decision Trees]
+
+[Download Course Materials](/files/Non_Metric_Methods_Decision_Trees_Slides.pdf)  
